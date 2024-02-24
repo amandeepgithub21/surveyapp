@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">surveyapp</string>
+    <string-array name="singledioalog">
+        <item>Level1</item>
+        <item>Level2</item>
+        <item>Level3</item>
+        <item>Level4</item>
+    </string-array>
+</resources>
